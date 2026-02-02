@@ -1,0 +1,4 @@
+myapi: {
+    endpoint: 'https://my-api.com/download',
+    key: 'optional-key'
+}
