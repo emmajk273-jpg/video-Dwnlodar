@@ -1,0 +1,1 @@
+GET https://yt-dlp-api.herokuapp.com/api/info?url={VIDEO_URL}
