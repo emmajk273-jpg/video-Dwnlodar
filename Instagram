@@ -1,0 +1,2 @@
+POST https://v3.igdownloader.app/api/ajaxSearch
+Body: url={INSTAGRAM_URL}&ts={TIMESTAMP}
