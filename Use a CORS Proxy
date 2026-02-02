@@ -1,0 +1,2 @@
+const proxyUrl = 'https://cors-anywhere.herokuapp.com/';
+fetch(proxyUrl + apiUrl);
