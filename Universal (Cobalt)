@@ -1,0 +1,7 @@
+POST https://api.cobalt.tools/api/json
+Body: {
+    "url": "{VIDEO_URL}",
+    "vCodec": "h264",
+    "vQuality": "720",
+    "aFormat": "mp3"
+}
