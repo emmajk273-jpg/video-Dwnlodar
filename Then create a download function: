@@ -1,0 +1,7 @@
+async function downloadFromMyAPI(url) {
+    const response = await fetch(API_ENDPOINTS.myapi.endpoint, {
+        method: 'POST',
+        body: JSON.stringify({ url })
+    });
+    return await response.json();
+}
