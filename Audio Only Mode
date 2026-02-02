@@ -1,0 +1,2 @@
+isAudioOnly: true,
+aFormat: 'mp3'  // Options: 'mp3', 'opus', 'ogg', 'wav'
